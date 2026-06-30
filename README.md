@@ -34,7 +34,6 @@ Studying AI & Data Science Engineering — most of what I know comes from shippi
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
-
 <br>
 
 <!-- AI & Blockchain Stack -->
