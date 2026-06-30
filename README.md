@@ -32,9 +32,10 @@ Studying AI & Data Science Engineering — most of what I know comes from shippi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br>
-
 <!-- AI & Blockchain Stack -->
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
