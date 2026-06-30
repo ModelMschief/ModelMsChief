@@ -57,7 +57,7 @@ Studying AI & Data Science Engineering — most of what I know comes from shippi
 [**`/bsc-payment-gateway`**](https://github.com/ModelMschief/GateWays)
 > Fully non-custodial Binance Smart Chain (BSC) payment gateway. Features direct node communication (no third-party APIs) and seamless integration with Telegram.
 
-`Python` `BSC` `Blockchain` `Telegram`
+`Node js` `BSC` `Blockchain` `Telegram` `Express` `MongoDB`
 
 </td>
 <td width="50%">
