@@ -1,20 +1,10 @@
-<div align="center">
-
-# Hi, I'm Shebin! 👋
-
-<a href="https://github.com/modelmschief">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Building+RAG+%26+LLM+Integrations;Developing+Scalable+REST+APIs;Shipping+things+that+work" alt="Typing SVG" />
-</a>
-
-</div>
-
----
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=modelmschief&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
 
 ### `> whoami`
 
-I build **backend systems**, **AI-powered applications**, and **developer tools**.
+I'm **Shebin**, and I build **backend systems**, **AI-powered applications**, and **developer tools**.
 
 Studying AI & Data Science Engineering — most of what I know comes from shipping things, breaking them, and rebuilding them better.
 
