@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=modelmschief&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img align="right" width="220" src="./output.png" alt="Shebin ASCII Portrait" />
 
 ### `> whoami`
 
@@ -135,6 +135,7 @@ current_focus = {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=modelmschief&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modelmschief&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
