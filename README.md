@@ -8,7 +8,7 @@ I'm **Shebin**, and I build **backend systems**, **AI-powered applications**, an
 
 Studying AI & Data Science Engineering — most of what I know comes from shipping things, breaking them, and rebuilding them better.
 
-- **7 months** of serious hands-on development
+- **1 Year** of serious hands-on development
 - Focused on **Backend Engineering** and **Applied AI**
 - Currently building RAG systems, APIs, and automation tools
 - Completed **4 internships** in tech
